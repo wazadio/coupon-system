@@ -32,7 +32,7 @@ That's it! No need to install Go or PostgreSQL separately.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/wazadio/coupon-system.git
 cd coupon-system
 ```
 
